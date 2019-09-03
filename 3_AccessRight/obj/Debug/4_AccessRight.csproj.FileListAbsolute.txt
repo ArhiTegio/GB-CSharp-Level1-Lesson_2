@@ -1,0 +1,7 @@
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\bin\Debug\3_AccessRight.exe.config
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\bin\Debug\3_AccessRight.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\bin\Debug\3_AccessRight.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\obj\Debug\4_AccessRight.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\obj\Debug\3_AccessRight.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\obj\Debug\3_AccessRight.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_AccessRight\obj\Debug\4_AccessRight.csprojAssemblyReference.cache

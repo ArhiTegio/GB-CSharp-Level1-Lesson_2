@@ -1,0 +1,7 @@
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\bin\Debug\7_Recursion.exe.config
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\bin\Debug\7_Recursion.exe
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\bin\Debug\7_Recursion.pdb
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\obj\Debug\7_Recursion.csprojAssemblyReference.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\obj\Debug\7_Recursion.csproj.CoreCompileInputs.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\obj\Debug\7_Recursion.exe
+C:\Программирование\GB-CSharp-Level1-Lesson_2\7_Recursion\obj\Debug\7_Recursion.pdb

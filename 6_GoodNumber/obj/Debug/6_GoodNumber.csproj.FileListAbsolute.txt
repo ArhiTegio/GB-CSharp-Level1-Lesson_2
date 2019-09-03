@@ -1,0 +1,14 @@
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\bin\Debug\6_GoodNumber.exe.config
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\bin\Debug\6_GoodNumber.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\bin\Debug\6_GoodNumber.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.csprojAssemblyReference.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\bin\Debug\6_GoodNumber.exe.config
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\bin\Debug\6_GoodNumber.exe
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\bin\Debug\6_GoodNumber.pdb
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.csprojAssemblyReference.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.csproj.CoreCompileInputs.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.exe
+C:\Программирование\GB-CSharp-Level1-Lesson_2\6_GoodNumber\obj\Debug\6_GoodNumber.pdb

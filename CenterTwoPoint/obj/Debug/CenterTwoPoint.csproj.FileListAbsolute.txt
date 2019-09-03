@@ -1,0 +1,14 @@
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\bin\Debug\CenterTwoPoint.exe.config
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\bin\Debug\CenterTwoPoint.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\bin\Debug\CenterTwoPoint.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.csprojAssemblyReference.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.pdb
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\bin\Debug\CenterTwoPoint.exe.config
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\bin\Debug\CenterTwoPoint.exe
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\bin\Debug\CenterTwoPoint.pdb
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.csprojAssemblyReference.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.csproj.CoreCompileInputs.cache
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.exe
+C:\Программирование\GB-CSharp-Level1-Lesson_2\CenterTwoPoint\obj\Debug\CenterTwoPoint.pdb

@@ -1,0 +1,7 @@
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\bin\Debug\2_SummAllValue.exe.config
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\bin\Debug\2_SummAllValue.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\bin\Debug\2_SummAllValue.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\obj\Debug\3_SummAllValue.csprojAssemblyReference.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\obj\Debug\3_SummAllValue.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\obj\Debug\2_SummAllValue.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\3_SummAllValue\obj\Debug\2_SummAllValue.pdb

@@ -1,0 +1,7 @@
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\bin\Debug\5_BodyMassIndex.exe.config
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\bin\Debug\5_BodyMassIndex.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\bin\Debug\5_BodyMassIndex.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\obj\Debug\5_BodyMassIndex.csprojAssemblyReference.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\obj\Debug\5_BodyMassIndex.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\obj\Debug\5_BodyMassIndex.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_2\5_BodyMassIndex\obj\Debug\5_BodyMassIndex.pdb
