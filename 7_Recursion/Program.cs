@@ -53,26 +53,26 @@ namespace _7_Recursion
 
         public string Question<T>(string text, HashSet<char> arraySym, bool show)
         {
-            Console.WriteLine(text);
+            WriteLine(text);
             var textAnswer = new StringBuilder();
             while (true)
             {
-                var symbol = Console.ReadKey(true);
+                var symbol = ReadKey(true);
                 if (arraySym.Contains(symbol.KeyChar))
                 {
                     textAnswer.Append(symbol.KeyChar.ToString());
                     if (show)
-                        Console.Write(symbol.KeyChar.ToString());
+                        Write(symbol.KeyChar.ToString());
                     else
-                        Console.Write('*');
+                        Write('*');
                 }
 
                 if (symbol.Key == ConsoleKey.Backspace && textAnswer.Length > 0)
                 {
                     textAnswer.Remove(textAnswer.Length - 1, 1);
-                    Console.Write(symbol.KeyChar.ToString());
-                    Console.Write(" ");
-                    Console.Write(symbol.KeyChar.ToString());
+                    Write(symbol.KeyChar.ToString());
+                    Write(" ");
+                    Write(symbol.KeyChar.ToString());
                 }
 
                 if (typeof(T) == typeof(string))

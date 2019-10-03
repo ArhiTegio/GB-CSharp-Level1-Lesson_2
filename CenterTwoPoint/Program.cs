@@ -54,7 +54,7 @@ namespace CenterTwoPoint
                 listLine.Enqueue(new Line<double>() { p1 = new PointN<double>() { X = n.p2.X, Y = n.p2.Y }, p2 = new PointN<double>() { X = p.X, Y = p.Y } });
 
                 yield return n;
-            }            
+            }
         }
     }
 
